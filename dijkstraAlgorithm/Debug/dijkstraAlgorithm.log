@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\work\algoritms\dijkstraAlgorithm\dijkstraAlgorithm\dijkstraAlgorithm.h(32,6): warning C4101: 'a': unreferenced local variable
+C:\work\algoritms\dijkstraAlgorithm\dijkstraAlgorithm\main.cpp(44): message : see reference to function template instantiation 'void dijkstraAlgoritm<std::string,int>(std::map<std::string,RoadNode<std::string,int>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::string,RoadNode<std::string,int>>>> &,const T &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  dijkstraAlgorithm.vcxproj -> C:\work\algoritms\dijkstraAlgorithm\Debug\dijkstraAlgorithm.exe
